@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "name": "Isabella Thompson",
+      "username": "isabellat",
+      "email": "isabellat@example.com",
+      "phone": "654-987-1230",
+      "website": "www.isabellathompson.com"
+    },
+    {
+      "id": "d5c6",
+      "name": "Arsenio Roth",
+      "email": "surufado@mailinator.com",
+      "phone": "+1 (888) 318-7062"
+    },
+    {
+      "id": "3477",
+      "name": "Isabella Dickerson",
+      "email": "ruwuka@mailinator.com",
+      "phone": "+1 (632) 902-5644"
+    },
+    {
+      "id": "3cdc",
+      "name": "Hiroko Parsons",
+      "email": "xikesup@mailinator.com",
+      "phone": "+1 (425) 789-3685"
+    },
+    {
+      "id": "b41c",
+      "name": "Winifred Hansen",
+      "email": "vesefexas@mailinator.com",
+      "phone": "+1 (362) 307-3279"
+    }
+  ]
+}
